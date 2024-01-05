@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 It's Teresa Peter
+👩‍🎓I'm currently a student at Maseno University pursuing ICT
+👯I'm looking to collaborate more on open source projects
+🤔I'm currently learning React.js
+👯Currently working on various projects with @miwidevelopers
 
 <!--
 **Teresapeter/Teresapeter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
